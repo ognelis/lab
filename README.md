@@ -4,7 +4,7 @@
     * зайти на страницу по сылке: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html;
     * на странице выбрать нужный файл Java SE Development Kit 8u65 под нужную платформу;
     * cкачать, установить.
-  2. Установить sbt(Simple Building Tool) : 
+  2. Установить sbt(Simple Build Tool) : 
        * Для linux:
          * зайти на страницу по сылке: http://www.scala-sbt.org/0.13/tutorial/Installing-sbt-on-Linux.html;
          * выполнить инструкции, приведенные на странице, в зависимости от дистрибутива linux;
