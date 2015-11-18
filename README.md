@@ -1,6 +1,6 @@
 Проект написан на scala. 
 Чтобы запустить проект требуется следующие действия:
-  1) Установить Java Platform (JDK) 8u65 :
+  1) Установить Java Platform (JDK) 8u65 :\n
     - зайти на страницу по сылке: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html;
     - на странице выбрать нужный файл Java SE Development Kit 8u65 под нужную платформу;
     - cкачать, установить.
