@@ -5,10 +5,10 @@
     * на странице выбрать нужный файл Java SE Development Kit 8u65 под нужную платформу;
     * cкачать, установить.
   2. Установить sbt(Simple Building Tool) : 
-       *Для linux:
+       * Для linux:
          * зайти на страницу по сылке: http://www.scala-sbt.org/0.13/tutorial/Installing-sbt-on-Linux.html;
          * выполнить инструкции, приведенные на странице, в зависимости от дистрибутива linux;
-       *Для windows:
+       * Для windows:
          * зайти на страницу по сылке: http://www.scala-sbt.org/0.13/tutorial/Installing-sbt-on-Windows.html;
          * скачать файл;
   3. Скачать проект с GitHub
